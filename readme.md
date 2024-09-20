@@ -5,4 +5,4 @@ Este es un ejemplo practico.
 ---
 
 ## Rama actual:
--Main
+-Release
